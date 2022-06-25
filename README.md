@@ -1,3 +1,3 @@
-# Django-Crud
+# Django-Crude
 
 [PUBLISHED PAGE]()
