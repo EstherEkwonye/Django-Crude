@@ -1,3 +1,3 @@
 # Django-Crude
 
-[PUBLISHED PAGE]()
+[PUBLISHED PAGE]( https://estherekwonye.github.io/Django-Crude/)
